@@ -19,6 +19,13 @@ EMAIL_USER=<email-user>
 EMAIL_PASS=<email-password>
 JWT_SECRET=<jwt-secret>
 
+also create a database name of ur choice from xampp admin panel
+
+also in db/knexfile.js 
+      host: 'localhost', <your localhost >
+      user: 'hona', <your username >
+      password: '', <your password >
+      database: 'back' <your database name>
 
 Run the server:
 
