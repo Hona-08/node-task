@@ -1,0 +1,2 @@
+.env ma email n pw hatau 
+create gitignore and remove comments and check codes again
